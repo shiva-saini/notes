@@ -1,0 +1,39 @@
+/* .now{
+    flex-wrap: wrap;
+    display: flex;
+    margin: 20px;
+    padding: 10px;
+}
+
+
+.then{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+} */
+
+.container .heading #deleteall{
+    position: relative;
+    left: 45px;
+}
+
+.container{
+    align-items: center;
+    justify-content:center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+/* .titlecontainer{
+    align-items: center;
+    justify-content:center;
+    border: black 2px solid;
+    padding: 23px;
+    width: 200px;
+    height: 200px;
+    box-shadow: 20px 20px 50px 10px pink inset;
+    margin: 5px;
+    
+
+} */
